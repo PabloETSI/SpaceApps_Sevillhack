@@ -1,0 +1,13 @@
+axes.titlesize : 20
+axes.labelsize : 20
+lines.linewidth : 3
+lines.markersize : 10
+xtick.labelsize : 12
+ytick.labelsize : 12
+axes.labelweight : normal
+axes.titleweight : bold
+axes.titlecolor:    white
+axes.labelcolor:    white
+xtick.color:        white
+ytick.color:        white
+figure.facecolor:   black
